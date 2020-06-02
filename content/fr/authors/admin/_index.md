@@ -68,7 +68,9 @@ email: ""
 # - Visitors
 ---
 
-I'm studying the link between alterations in the gut microbiota and the glucose homeostasis in mice using metagenomics and other omics-approaches.
-An internship at Nestlé research center allowed me to learn from experts about children gut microbiota and to realize my first publications.
-Now, I'm doing a PhD at University of Geneva in the lab of Prof. Mirko Trajkovski and are co-supervised by Prof. Evgeny Zdobnov.
-I like to cook with my wife and to dance Salsa, but not both on the same time.
+J'étudie le lien entre les changements du microbiote et la santé de l’hôte en utilisant la metagénomique et d’autres techniques à grand débit.
+Un stage dans le centre de recherche Nestlé m’a permis d’apprendre des experts du microbiote de l’enfant et de publier mes premières articels. Maintenant je suis en train de faire un doctorat à l’université de Genève dans le laboratoire de Prof. Mirko Trajkovski avec la co-supervison de Prof. Evgeny Zdobnov.
+
+Comme, des expériences sur des souris permettent d’acquérir des connaissances plus profondes, je travaille la moitié de temps avec des souris vivantes et l’autre moitié avec les souris d’ordinateurs. Je développe des outils pour analyser le microbiote.
+
+J’aime faire la cuisine et de danser la salsa avec ma femme, mais pas les deux en même temps.
